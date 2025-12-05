@@ -1,0 +1,2 @@
+console.log("Hello, Spydy! JS is working.");
+alert("Welcome to my Vercel project!");
